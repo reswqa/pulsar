@@ -597,7 +597,7 @@ public abstract class PulsarWebResource {
      * Checks whether the broker is the owner of the namespace. Otherwise it will raise an exception to redirect the
      * client to the appropriate broker. If no broker owns the namespace yet, this function will try to acquire the
      * ownership by default.
-     *
+     *na
      * @param topicName topic name
      * @param authoritative
      */
